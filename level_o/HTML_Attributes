@@ -1,0 +1,7 @@
+    *   An HTML element is defined by a start tag, some content, and an end tag.
+    *   All HTML elements can have attributes
+    *   Attributes provide additional information about elements
+    *   palced within opening tag
+    *   common exmaple is href, src, alt etc.
+    *   <html lang="en">  it define which language is use in page.
+    

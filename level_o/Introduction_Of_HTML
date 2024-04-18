@@ -7,4 +7,6 @@ HTML elements label pieces of content such as "this is a heading", "this is a pa
 HTML is HTML is not a case sensitive language.
 HTML file extension is '.html'.
 In HTML all code is written inside tags and the parent of all tags is <html> tag.
-
+Elements that are used to create a website are called HTML Tags.
+ Tags can contain content or other HTML tags.
+ Define elements like text, images, links
