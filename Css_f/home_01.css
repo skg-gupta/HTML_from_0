@@ -1,0 +1,13 @@
+
+        *{
+            margin: 0%;
+            padding: 0%;
+        }
+  #box{
+    background-image: url(/imgae/Hello\ Juniors\ \(2\).png);
+    height: 170px;
+    
+  
+   background-size: contain;
+  }
+   
