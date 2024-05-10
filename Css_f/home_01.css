@@ -2,12 +2,14 @@
         *{
             margin: 0%;
             padding: 0%;
+            background-color: rgba(255, 235, 205,.3);
         }
-  #box{
+  #box12{
     background-image: url(/imgae/Hello\ Juniors\ \(2\).png);
     height: 170px;
     
   
    background-size: contain;
   }
+  
    
